@@ -9,7 +9,7 @@ nav_order: 1
 ---
 
 
-# A picture of a Nebula
+# A picture of a certain galaxy
 
 <img src="/posts/brett-ritchie-1vKTnwLMdqs-unsplash.jpg" alt="stars"/>
 
