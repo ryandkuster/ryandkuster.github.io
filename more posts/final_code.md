@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: this is how you code
-parent: more_posts
+title: this is also how you code
+parent: more posts
 nav_order: 1
 ---
 
