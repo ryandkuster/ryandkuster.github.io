@@ -4,7 +4,7 @@
 
 layout: default
 title: this is how you code
-parent: posts
+parent: more_posts
 nav_order: 1
 ---
 
