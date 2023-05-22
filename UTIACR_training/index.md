@@ -3,14 +3,14 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: starstuff
-parent: posts
-nav_order: 1
+title: UTIA Computational Resources
+nav_order: 2
+has_children: true
+heading_anchors: true
+permalink: /
+has_toc: false
 ---
 
 
-# A picture of a certain galaxy
-
-<img src="/posts/brett-ritchie-1vKTnwLMdqs-unsplash.jpg" alt="stars"/>
-
-Pretty.
+# This should be the index file here
+Is it?

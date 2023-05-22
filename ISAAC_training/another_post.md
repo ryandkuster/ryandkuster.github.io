@@ -3,14 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: posts
-nav_order: 1
-has_children: true
-heading_anchors: true
-permalink: /
-has_toc: false
+title: Test post
+parent: posts
+nav_order: 2
 ---
 
-
-# This should be the index file here
-Is it?
+# Test Post
+Second post

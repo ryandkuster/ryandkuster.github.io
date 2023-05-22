@@ -1,3 +1,14 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: default
+title: starstuff
+parent: posts
+nav_order: 1
+---
+
+
 Please also check out the resources for ISAAC and high-performance computing at the [OIT documentation](https://oit.utk.edu/hpsc/isaac-open-enclave-new-kpb/data-transfer-new-cluster-kpb-2/) and [OIT Workshops and Training](https://oit.utk.edu/hpsc/overview/workshop-recordings/) pages
 
 ## Confirm ISAAC SSH login works
