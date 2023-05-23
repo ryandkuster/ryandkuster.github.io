@@ -44,7 +44,7 @@ List the contents of your directory of interest using the following:
 ls </path/to/your/data/>
 ```
 
-If that works for you, you should have the ability to go to the directory where you would like the files to end up, exit your ssh login to ISAAC using the following:
+If that works for you, you should have the ability to access the directory where your data is stored. Exit your ssh login to ISAAC using the following:
 
 ```
 exit
