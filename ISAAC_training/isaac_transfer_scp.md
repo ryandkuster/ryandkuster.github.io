@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: starstuff
-parent: posts
+title: ISAAC Data Transfer
+parent: ISAAC Training
 nav_order: 1
 ---
 

@@ -4,7 +4,7 @@
 
 layout: default
 title: Test post
-parent: posts
+parent: ISAAC Training
 nav_order: 2
 ---
 

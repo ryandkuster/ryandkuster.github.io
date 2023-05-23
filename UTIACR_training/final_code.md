@@ -4,7 +4,7 @@
 
 layout: default
 title: this is also how you code
-parent: more posts
+parent: UTIA Computational Resources
 nav_order: 1
 ---
 
