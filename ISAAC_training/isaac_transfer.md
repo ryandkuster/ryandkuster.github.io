@@ -18,8 +18,7 @@ From command line (terminal), first confirm that you can [login to ISAAC](https:
 ssh <username>@login.isaac.utk.edu
 ```
 
-{: .note }
-"\<username>" is replaced by your netid
+{% include tip.html content="<username> is replaced by your netid" %}
 
 This should prompt you for your password and 2FA login. If not, depending on your status as student/staff, you may also need to try:
 
