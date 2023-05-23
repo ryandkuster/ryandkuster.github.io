@@ -8,8 +8,13 @@ parent: ISAAC Training
 nav_order: 1
 ---
 
+# ISAAC Data Transfer
+
+If you need to simply copy over a directory of data from ISAAC to your local device, the following instructions should get you moving in the right direction. These steps will require some very basic understanding of how to open command line on your operating system and change directories.
 
 Please also check out the resources for ISAAC and high-performance computing at the [OIT documentation](https://oit.utk.edu/hpsc/isaac-open-enclave-new-kpb/data-transfer-new-cluster-kpb-2/) and [OIT Workshops and Training](https://oit.utk.edu/hpsc/overview/workshop-recordings/) pages
+
+The first step is to confirm you have access to the directory where your data is stored.
 
 ## Confirm ISAAC SSH login works
 From command line (terminal), first confirm that you can [login to ISAAC](https://oit.utk.edu/hpsc/isaac-open-enclave-new-kpb/access-and-login-isaac-ng/) using ssh:
@@ -24,7 +29,7 @@ ssh <username>@login.isaac.utk.edu
 This should prompt you for your password and 2FA login. If not, depending on your status as student/staff, you may also need to try:
 
 ```
-ssh <username>@login.isaac.utk.edu
+ssh <username>@login.isaac.tennessee.edu
 ```
 
 ## Confirm you have access to the data directory of interest
