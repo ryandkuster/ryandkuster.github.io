@@ -18,6 +18,9 @@ From command line (terminal), first confirm that you can [login to ISAAC](https:
 ssh <username>@login.isaac.utk.edu
 ```
 
+{: .note }
+"\<username>" is replaced by your netid
+
 This should prompt you for your password and 2FA login. If not, depending on your status as student/staff, you may also need to try:
 
 ```
@@ -58,10 +61,8 @@ scp -r <username>@dtn1.isaac.utk.edu:</path/to/their/files/folder/> ./
 scp -r '<username>@dtn1.isaac.utk.edu:</path/to/their/files/folder/>' ./
 ```
 
-note:
-
+{: .note }
 "\<username>" is replaced by your netid
-
 "\</path/to/their/files/folder/>" is replaced with the full path (beginning with "/") to the directory of your sequence data on ISAAC).
 
 If all goes well, you'll be prompted to use your password and two factor authentication. The file transfer may take awhile so you'll need to be sure your computer doesn't sleep during the transfer.

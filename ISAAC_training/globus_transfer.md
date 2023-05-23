@@ -8,5 +8,9 @@ parent: ISAAC Training
 nav_order: 2
 ---
 
-# Test Post
-Second post
+# Globus Documentation
+
+{: .warning }
+Future page for Globus documentation
+
+Under construction!
