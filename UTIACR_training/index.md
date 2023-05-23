@@ -12,5 +12,4 @@ has_toc: false
 ---
 
 
-# This should be the index file here
-Is it?
+# This page is under construction

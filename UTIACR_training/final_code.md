@@ -3,15 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: this is also how you code
+title: System Overview
 parent: UTIA Computational Resources
 nav_order: 1
 ---
 
-# Here's some code
+# UTIA Computational Resources
 
-```
-cat text.txt | sort | uniq | wc -l
-```
-
-That's how you find the number of unique lines in a file.
+UTIA Computational Resources are...
