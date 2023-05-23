@@ -13,4 +13,5 @@ nav_order: 2
 {: .warning }
 Future page for Globus documentation
 
+{: .note }
 Under construction!
