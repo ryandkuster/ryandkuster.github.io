@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Test post
+title: Globus Data Transfer
 parent: ISAAC Training
 nav_order: 2
 ---
