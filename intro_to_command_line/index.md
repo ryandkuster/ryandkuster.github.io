@@ -21,3 +21,6 @@ This module is a practical introduction to working in the Unix shell. It follows
 5. [Loops](05-loop/)
 6. [Shell Scripts](06-script/)
 7. [Finding Things](07-find/)
+
+
+This lesson is an adaptation of the Software Carpentry 'The Unix Shell' lesson ([CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)), with modifications for EPP 575 : Introduction to RNA-Seq.
