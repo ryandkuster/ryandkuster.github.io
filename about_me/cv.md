@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: default
 title: CV
-nav_order: 2
-permalink: /cv/
+parent: About Me
+nav_order: 1
 ---
 
 # Curriculum Vitae
@@ -15,7 +15,7 @@ permalink: /cv/
 |--------|-------------|------|
 | **Ph.D.** Entomology, Plant Pathology & Nematology | University of Tennessee | 2022 |
 | **M.S.** Biology | University of North Carolina at Greensboro | 2012 |
-| **B.S.** Evolutionary Ecology & Biology | University of Kansas | 2009 |
+| **B.S.** Ecology & Evolutionary Biology | University of Kansas | 2009 |
 
 ---
 
@@ -35,7 +35,7 @@ Brief description of role and responsibilities.
 - Kuster, Ryan D; Smith, Zane C; Whitt, Lauren; Staton, Margaret E; Mansfeld, Ben N; Gottschalk, Christopher. **2025**. Ragnarok: a flexible and RApid GeNe Annotation (ROcKs) pipeline deployed through Nextflow. bioRxiv.
 - Kuster, Ryan; Staton, Margaret. **2024**. Readsynth: short-read simulation for consideration of composition-biases in reduced metagenome sequencing approaches. BMC Bioinformatics.
 - Chaggar, Harleen K; Hudson, Lauren K; Kuster, Ryan; Garman, Katie N; Dunn, John R; Denes, Thomas G. **2023**. ClustFinder: A tool for threshold-delineated clustering of microbial isolates by pairwise genomic distance. Journal of Microbiological Methods.
-- Sapkota, Shiwani; Boggess, Sarah L; Trigiano, Robert N; Klingeman, William E; Hadziabdic, Denita; Coyle, David R; Olukolu, Bode A; Kuster, Ryan D; Nowicki, Marcin. **2021**. Microsatellite Loci Reveal Genetic Diversity of Asian Callery Pear (Pyrus calleryana) in the Species Native Range and in the North American Cultivars.	Life.
+- Sapkota, Shiwani; Boggess, Sarah L; Trigiano, Robert N; Klingeman, William E; Hadziabdic, Denita; Coyle, David R; Olukolu, Bode A; Kuster, Ryan D; Nowicki, Marcin. **2021**. Microsatellite Loci Reveal Genetic Diversity of Asian Callery Pear (Pyrus calleryana) in the Species Native Range and in the North American Cultivars. Life.
 - Kuster, Ryan D; Yencho, G Craig; Olukolu, Bode A. **2021**. ngsComposer: an automated pipeline for empirically based NGS data quality filtering. Briefings in Bioinformatics.
 
 ---

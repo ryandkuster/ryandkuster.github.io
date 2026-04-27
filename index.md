@@ -23,4 +23,4 @@ Welcome! This site hosts computational training materials for biologists and res
 
 I'm a bioinformatician at the University of Tennessee, Knoxville, supporting researchers with computational analyses and training.
 
-[View my CV](cv/) &nbsp;·&nbsp; [About this site](about/)
+[About Me](about_me/) &nbsp;·&nbsp; [CV](about_me/cv/)
