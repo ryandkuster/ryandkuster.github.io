@@ -1,11 +1,13 @@
 ---
 layout: default
-title: CV
-parent: About Me
-nav_order: 1
+title: About
+nav_order: 2
+permalink: /about/
 ---
 
-# Curriculum Vitae
+# About
+
+I'm a bioinformatician at the University of Tennessee, Knoxville, supporting researchers with computational analyses and training in genomics and command-line tools.
 
 ---
 
